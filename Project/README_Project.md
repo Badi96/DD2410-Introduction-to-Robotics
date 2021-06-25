@@ -1,4 +1,4 @@
-## DD2410 Instructions for running project ##
+## DD2410 Project information ##
 
 Requires ROS installed (in Linux). In this assignment, the TIAGo Robot was expected to pick an Aruco  startring from an unknown positon. The TIAGo must make use of its sensors and a prior map of the room to transport the cube safely among rooms.
 Simulation was done in [Gazebo](http://gazebosim.org/) of a of a [TIAGo](https://pal-robotics.com/robots/tiago/) robot in an apartment.
