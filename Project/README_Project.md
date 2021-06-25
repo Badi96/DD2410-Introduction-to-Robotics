@@ -4,7 +4,7 @@ Requires ROS installed (in Linux). In this assignment, the TIAGo Robot was expec
 
 A behavior tree was implemented that goes through the following main states:
 
-##Requirements##
+###Requirements###
 1. Robot has localized itself in the apartment
 2. Navigation to picking pose
 3. Cube detected
