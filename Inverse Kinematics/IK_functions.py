@@ -3,8 +3,8 @@
 import numpy as np
 import math
 """
-    # {student full name}
-    # {student email}
+    # {Badi Mirzai}
+    # {badi.mirzai@gmail.com}
 """
 
 def scara_IK(point):
