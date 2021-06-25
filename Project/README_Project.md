@@ -16,8 +16,8 @@ A behavior tree was implemented that goes through the following main states:
 5. Navigation with cube to second table
 6. Complete placing task
 7. Cube placed on table?
-  7.1. Yes: end of mission
-  7.2. No: go back to state 2 and repeat until success. For this, you need to respawn the cube to its original pose in case it has fallen.
+⋅⋅⋅7.1. Yes: end of mission
+⋅⋅⋅7.2. No: go back to state 2 and repeat until success. For this, you need to respawn the cube to its original pose in case it has fallen.
 
 Obs 1: At any time during the navigation, a bad-intentioned TA might kidnap your robot again. Your behavior tree must be able to detect this and react to it so that the robot always knows its true position. Kidnap the robot yourself during your development to test your solution (the robot can be moved in Gazebo manually).
 
