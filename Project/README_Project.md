@@ -1,6 +1,5 @@
 ## DD2410 Project information ##
 
-Requires ROS installed (in Linux). 
 The goal of this project was to implement a mission planner for [TIAGo](https://pal-robotics.com/robots/tiago/) to execute a set of tasks.
 The TIAGo Robot was expected to pick an Aruco cube startring from an unknown positon and then move it to another table. The TIAGo must make use of its sensors and a prior map of the room to transport the cube safely among rooms. Furthermore, the robot was expected to be able to be "kidnapped" manually by an user and be able to start over in the task in such a way to eventually suceed with the mission. 
 
