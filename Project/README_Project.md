@@ -29,6 +29,10 @@ cd ~/catkin_ws/src/
 git clone https://github.com/ignaciotb/robi_final_project.git
 
 # Build the project:
+
+```python
 cd ~/catkin_ws
 catkin_make -DCATKIN_ENABLE_TESTING=0 -DCMAKE_BUILD_TYPE=RelWithDebInfo
-source devel/setup.bash '
+source devel/setup.bash
+```
+
