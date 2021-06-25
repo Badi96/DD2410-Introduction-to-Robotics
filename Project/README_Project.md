@@ -24,9 +24,12 @@ Obs 1: At any time during the navigation, a bad-intentioned TA might kidnap your
 Obs 2: The robot uses a particle filter for localization. Use the distribution of the particles to know when the filter has converged. Other solutions will not be accepted.
 
 ## Install ##
-' # Download the repository:
+ # Download the repository:
+
+```terminal
 cd ~/catkin_ws/src/
 git clone https://github.com/ignaciotb/robi_final_project.git
+```
 
 # Build the project:
 
