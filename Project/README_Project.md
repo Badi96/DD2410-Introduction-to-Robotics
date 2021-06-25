@@ -1,10 +1,10 @@
-## DD2410 Instructions for running project
+## DD2410 Instructions for running project ##
 
 Requires ROS installed (in Linux). In this assignment, the TIAGo Robot was expected to pick an Aruco  startring from an unknown positon. The TIAGo must make use of its sensors and a prior map of the room to transport the cube safely among rooms.
 
 A behavior tree was implemented that goes through the following main states:
 
-###Requirements###
+### Requirements ###
 1. Robot has localized itself in the apartment
 2. Navigation to picking pose
 3. Cube detected
