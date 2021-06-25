@@ -1,3 +1,7 @@
+# Christopher Iliffe Sprague
+# sprague@kth.se
+# Behaviours needed for the example student solution.
+
 import numpy as np
 from numpy import linalg as LA
 import time
