@@ -3,7 +3,7 @@
 
 """
     # {Badi Mirzai}
-    # {badi.mirzai@bmail.com}
+    # {badi.mirzai@gmail.com}
 """
 
 # Python standard library
