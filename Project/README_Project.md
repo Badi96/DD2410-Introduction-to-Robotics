@@ -30,7 +30,7 @@ git clone https://github.com/ignaciotb/robi_final_project.git
 
 # Build the project:
 
-```python
+```terminal
 cd ~/catkin_ws
 catkin_make -DCATKIN_ENABLE_TESTING=0 -DCMAKE_BUILD_TYPE=RelWithDebInfo
 source devel/setup.bash
