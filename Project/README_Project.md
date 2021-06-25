@@ -1,6 +1,7 @@
 ## DD2410 Instructions for running project ##
 
 Requires ROS installed (in Linux). In this assignment, the TIAGo Robot was expected to pick an Aruco  startring from an unknown positon. The TIAGo must make use of its sensors and a prior map of the room to transport the cube safely among rooms.
+Simulation was done in [Gazebo](http://gazebosim.org/) of a of a [TIAGo](https://pal-robotics.com/robots/tiago/) robot in an apartment.
 
 A behavior tree was implemented that goes through the following main states:
 
@@ -14,4 +15,7 @@ A behavior tree was implemented that goes through the following main states:
 7. Cube placed on table?
   1. Yes: end of mission
   2. No: go back to state 2 and repeat until success. For this, you need to respawn the cube to its original pose in case it has fallen.
+
+
+## Install ##
 
